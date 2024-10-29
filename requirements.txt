@@ -1,0 +1,55 @@
+# Core dependencies
+pyrogram>=2.0.30
+tgcrypto
+pymongo[srv]>=3.12.3
+motor>=2.5.1
+marshmallow>=3.14.1
+umongo>=3.0.1
+requests
+beautifulsoup4
+git+https://github.com/Joelkb/cinemagoer
+shortzy
+datetime
+pytz
+aiohttp
+
+# Master dependencies
+# Telethroid is deprecated, consider alternatives
+PyLeaves>=1.0.2
+wikipedia-api
+
+# YouTube downloaders
+ffmpeg-python>=0.2.0
+youtube-search-python>=1.4.6
+yt-dlp
+youtube-dl
+requests
+
+# OpenAI
+openai>=0.27.0
+
+# Other dependencies
+opencv-python-headless>=4.7.0
+googletrans==4.0.0-rc1
+telegraph>=2.2.0
+python-dotenv>=0.21.1
+gTTS>=2.3.1
+speedtest-cli
+humanize>=4.6.0
+Pillow>=9.4.0
+psutil>=5.9.4
+numpy
+wheel
+ujson
+wget
+aiofiles
+dnspython>=2.3.0
+python-decouple
+ytthumb
+
+# Additional tools
+jinja2>=3.1.2
+apscheduler>=3.9.1
+pyshorteners
+pyromod
+colorama
